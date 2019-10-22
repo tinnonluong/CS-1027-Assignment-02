@@ -2,6 +2,7 @@
 Learn about ArrayStacks
 
 import java.io.FileNotFoundException;
+
 import java.io.IOException;
 
 /**
@@ -10,11 +11,13 @@ import java.io.IOException;
  * 
  * @author Tinnon Luong
  */
+ 
 public class StartSearch {
 
 	/**
 	 * The map that Bryan navigates through
 	 */
+	 
 	private static Map desertMap;
 
 	public static void main(String[] args) throws InvalidMapException, FileNotFoundException, IOException {
